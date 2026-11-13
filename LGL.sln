@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C++ Express 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "LGL", "src\LGL.vcxproj", "{FA82D7A1-6126-4BF1-9550-D0408640C424}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "PadDriverFix", "tools\PadDriverFix\PadDriverFix.vcxproj", "{5CD832F9-E3FC-4554-9120-D4900709CF4A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FA82D7A1-6126-4BF1-9550-D0408640C424}.Debug|Win32.ActiveCfg = Debug|Win32
+		{FA82D7A1-6126-4BF1-9550-D0408640C424}.Debug|Win32.Build.0 = Debug|Win32
+		{FA82D7A1-6126-4BF1-9550-D0408640C424}.Release|Win32.ActiveCfg = Release|Win32
+		{FA82D7A1-6126-4BF1-9550-D0408640C424}.Release|Win32.Build.0 = Release|Win32
+		{5CD832F9-E3FC-4554-9120-D4900709CF4A}.Debug|Win32.ActiveCfg = Debug|Win32
+		{5CD832F9-E3FC-4554-9120-D4900709CF4A}.Debug|Win32.Build.0 = Debug|Win32
+		{5CD832F9-E3FC-4554-9120-D4900709CF4A}.Release|Win32.ActiveCfg = Release|Win32
+		{5CD832F9-E3FC-4554-9120-D4900709CF4A}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
