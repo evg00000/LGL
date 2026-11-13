@@ -4,12 +4,9 @@
 
 A lightweight, gamepad-driven launcher for local PC games on **Windows XP** and newer.
 Think PS2 OPL or Steam Big Picture, but as a single native Win32 executable that runs
-comfortably on a Pentium III.
+comfortably on a Pentium III. Created with Claude Opus 5.5.
 
-<!-- Add screenshots to docs/ and uncomment:
-![Game list](docs/screenshot-list.png)
-![Button layout editor](docs/screenshot-editor.png)
--->
+<img width="1024" height="768" alt="cover" src="https://github.com/user-attachments/assets/31118baf-ccfe-4b05-963b-ba311c5ad03d" />
 
 ## Features
 
